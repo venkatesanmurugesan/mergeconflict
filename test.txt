@@ -1,1 +1,1 @@
-city:kallai
+city:None
